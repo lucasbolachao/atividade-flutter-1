@@ -1,16 +1,10 @@
-# untitled2
+Escopo: Fazer um aplicativo que funciona como um diário de viagem, aonde o usuário pode registrar suas viagens recentes ou futuras. O usuário deve poder registrar a data, local, descrição e fotos da viagem.
 
-A new Flutter project.
+Paleta de cores:
+ciano: #40ffdc
+azul: #00a9d4
+azul escuro: #1c3166
+roxo: #240047
+azul marinho: #1c0021
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ao importar o projeto terão dois arquivos dart além do main, são eles: register_page e login_page
